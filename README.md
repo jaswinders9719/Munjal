@@ -1,5 +1,7 @@
-# 💫 About Me:
-m currently done my Msc Advanced Computer Science From University of Hertfordshire <br>and m learning DevOps 
+# 👋 Hi, I'm Jaswinder Singh
+
+🎓 MSc Advanced Computer Science graduate from the University of Hertfordshire  
+💻 Passionate about DevOps, Cloud Computing, and Automation
 
 
 ## 🌐 Socials:
