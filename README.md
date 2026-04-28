@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaswinder Singh
+# 👋 Hi, I'm Jaswinder Singh Munjal
 
 🎓 MSc Advanced Computer Science graduate from the University of Hertfordshire  
 💻 Passionate about DevOps, Cloud Computing, and Automation
